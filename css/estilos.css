@@ -3,5 +3,12 @@ p{
 }
 
 div{
-    color: green;
+    color: rgb(170,55,31);
+}
+
+.caja1{
+width: 250px;
+height: 250px;
+background-color: #23622654;
+position: absolute;
 }
